@@ -14,16 +14,15 @@
 
 ```bash
 $ whoami
-shreemant-acharya, entry-level DevOps engineer
+Shreemant-Acharya, entry-level DevOps engineer
 
 $ cat focus.txt
-Infrastructure as Code  ->  Terraform on AWS
+Infrastructure as Code  ->  Terraform
 Containers              ->  Docker, Docker Compose
 CI/CD                   ->  GitHub Actions
 Orchestration           ->  Kubernetes on AWS EKS
 ```
 
-I build and deploy small but complete cloud projects, and I put every step in the README so anyone can repeat it.
 
 ---
 
