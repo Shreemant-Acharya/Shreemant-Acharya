@@ -14,14 +14,16 @@
 
 ```bash
 $ whoami
-Shreemant-Acharya, entry-level DevOps engineer
+shreemant-acharya, entry-level DevOps engineer
 
 $ cat focus.txt
-Infrastructure as Code  ->  Terraform
+Infrastructure as Code  ->  Terraform on AWS
 Containers              ->  Docker, Docker Compose
 CI/CD                   ->  GitHub Actions
 Orchestration           ->  Kubernetes on AWS EKS
 ```
+
+I build and deploy small but complete cloud projects, and I put every step in the README so anyone can repeat it.
 
 ---
 
@@ -40,17 +42,3 @@ Orchestration           ->  Kubernetes on AWS EKS
 [![DevOps and cloud](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,git,github&perline=10)](https://skillicons.dev)
 
 [![Used in my projects](https://skillicons.dev/icons?i=python,flask,mysql,react,nodejs,mongodb&perline=10)](https://skillicons.dev)
-
----
-
-### 📊 GitHub activity
-
-<div align="center">
-
-![GitHub streak](https://streak-stats.demolab.com/?user=Shreemant-Acharya&theme=default&hide_border=true)
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreemant-Acharya&bg_color=ffffff&color=59636e&line=0969da&point=8250df&area=true&area_color=0969da&hide_border=true)
-
-![Profile views](https://komarev.com/ghpvc/?username=Shreemant-Acharya&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
